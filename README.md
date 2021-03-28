@@ -1,3 +1,3 @@
 #animation-js
 
-This is JavaScrpit animation
+This is JQuery animation
